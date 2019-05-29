@@ -1,3 +1,1 @@
-# hello
-first time
-ki hoillo :O 
+Project Proposal for spl-1
